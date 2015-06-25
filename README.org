@@ -300,7 +300,7 @@
   ,#+NAME: label
   ,#+BEGIN_EXAMPLE
   example
-  ,#+END EXAMPLE
+  ,#+END_EXAMPLE
 #+END_EXAMPLE
 
     reStructuredText:
